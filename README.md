@@ -6,7 +6,6 @@ Optimization of Virtualizer omnidirectional treadmill.  Describes an approach to
 ```diff
 !- WARNING -!                                                                                             
 ```
----
 * The Code AND the Fully functional Unity app provided, will NOT work unless you have the CybSDK DLLs installed on your machine.
 * Because of this, we have included them under "Treadmill/CybSDK/DLLs/" for you.
 * There are two version, one for 64 bit and the other for 32 bit machines.
