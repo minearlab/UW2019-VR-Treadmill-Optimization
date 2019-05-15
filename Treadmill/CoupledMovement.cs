@@ -13,6 +13,9 @@ using UnityEngine;
 // This script assumes that critical additions to the [ CVirtDeviceNative.cs ] script  have been made
 // Specifically, that functions named [ GetDirectionRaw() ] and [ GetOrientationRaw() ] have been added.
 //
+// The modified file can be found in the CybSDK file in this repository 
+// (all the files necesarry are the property of Cyberith and as such we cannot upload them to this repo) 
+//
 // This script is a modified version of the Unity standard assets [ RigidBodyFirstPersonController ] script
 
 
