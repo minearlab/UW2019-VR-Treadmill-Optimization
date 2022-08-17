@@ -3,7 +3,7 @@ Optimization of Virtualizer omnidirectional treadmill.  Describes an approach to
 
 ### *Full Source is not available since it uses artistic assets to which we do not have distribution rights.  The main scripts developed by the lab (and some others) however, are included.*
 ```diff
-+ If you are experiencing unnatrual slow down, try turning off Debugging
++ If you are experiencing unnatural slow down, try turning off Debugging
 ```
 
 ```diff
@@ -20,7 +20,7 @@ Optimization of Virtualizer omnidirectional treadmill.  Describes an approach to
 ## Usage
   * The Critical Code can be found under the "Treadmill" folder.  Be warned that it requires Cyberith's suite of development scripts (and a Virtualizer Omnidirectional Treadmill) to actually run.  If you have the requsites, great! If not, we hope the code can at least get the gears moving on how to apply a similar solution to your projects.
   
-  * The Majority of the files in this repo are likely not necesarry.  However, they do define some useful functions when working with UI and are included as extras that you may use (with citation) or take from in order to streamline your development process.
+  * The Majority of the files in this repo are likely not necessary.  However, they do define some useful functions when working with UI and are included as extras that you may use (with citation) or take from in order to streamline your development process.
 
 
 
